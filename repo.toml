@@ -1,1 +1,5 @@
-
+[TBC]
+name = "openMOOSE"
+version = "1.0.0"
+description = "The description of the package will go here."
+download = "https://example.com/download"
